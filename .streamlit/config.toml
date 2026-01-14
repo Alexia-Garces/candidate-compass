@@ -1,0 +1,27 @@
+# Streamlit Theme Configuration
+# Generated for Candidate Ranker Demo with CGI-style branding
+# See: https://docs.streamlit.io/library/advanced-features/theming
+
+[theme]
+# CGI Red - Primary brand color for buttons, links, spinners
+primaryColor = "#E31937"
+
+# Main text color
+textColor = "#333333"
+
+# Main background color
+backgroundColor = "#FFFFFF"
+
+# Sidebar and secondary element background
+secondaryBackgroundColor = "#F3F6F9"
+
+# Font family (optional - uses Streamlit default if not set)
+# font = "sans serif"
+
+[server]
+# Enable file watching for development
+fileWatcherType = "auto"
+
+[browser]
+# Gather usage stats (disable for privacy)
+gatherUsageStats = false

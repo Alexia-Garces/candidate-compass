@@ -1,0 +1,17 @@
+# Candidate Ranker Demo - Dependencies
+# =====================================
+
+# Core framework
+streamlit==1.40.0
+
+# PDF processing
+pypdf==5.1.0
+
+# Data handling
+pandas==2.2.3
+
+# PDF generation for decision summaries
+reportlab==4.2.5
+
+# Testing
+pytest==8.3.4

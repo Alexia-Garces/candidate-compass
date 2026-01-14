@@ -1,0 +1,81 @@
+POSITION: Senior Data Analyst — Staff Augmentation
+AGENCY: Department of Public Services (Demo)
+LOCATION: Remote / Hybrid — Washington, DC Metro Area
+DURATION: 12-month contract with option to extend
+CLEARANCE: Public Trust (or ability to obtain)
+
+================================================================================
+POSITION SUMMARY
+================================================================================
+We are seeking a Senior Data Analyst to support a critical public-sector
+modernization initiative. The successful candidate will analyze large datasets,
+build interactive dashboards, and provide actionable insights to agency
+leadership. This role requires strong technical skills, excellent communication,
+and experience working in government or regulated environments.
+
+================================================================================
+KEY RESPONSIBILITIES
+================================================================================
+• Analyze structured and unstructured data from multiple agency systems
+• Design and build interactive dashboards using Tableau or Power BI
+• Write complex SQL queries to extract, transform, and validate data
+• Develop Python scripts for data cleaning, automation, and statistical analysis
+• Create clear visualizations and reports for non-technical stakeholders
+• Collaborate with IT, policy, and program teams to define data requirements
+• Document data sources, methodologies, and analytical processes
+• Support data governance and quality assurance initiatives
+• Present findings to senior leadership and external partners
+
+================================================================================
+REQUIRED QUALIFICATIONS
+================================================================================
+• Bachelor's degree in Data Science, Statistics, Computer Science, or related field
+• 5+ years of experience in data analysis or business intelligence
+• Advanced proficiency in SQL (complex joins, window functions, CTEs)
+• Strong experience with Python (pandas, numpy, matplotlib, scikit-learn)
+• Expertise in Tableau or Power BI dashboard development
+• Experience with large datasets (1M+ records)
+• Excellent written and verbal communication skills
+• Ability to translate technical findings for non-technical audiences
+
+================================================================================
+PREFERRED QUALIFICATIONS
+================================================================================
+• Master's degree in a quantitative field
+• Experience in federal, state, or local government projects
+• Knowledge of cloud platforms (Azure, AWS, or GCP)
+• Familiarity with Agile/Scrum project management methodologies
+• Experience with GIS tools (ArcGIS, QGIS) for geospatial analysis
+• Certifications: Tableau Desktop Specialist, Azure Data Fundamentals, or similar
+• Experience with Docker or Kubernetes for containerized deployments
+• Knowledge of data privacy regulations (FISMA, HIPAA, or similar)
+
+================================================================================
+EVALUATION CRITERIA (Weighted)
+================================================================================
+1. Technical Skills (40%)
+   - SQL proficiency demonstrated through project examples
+   - Python/R programming for data analysis
+   - Dashboard development experience (Tableau/Power BI)
+
+2. Relevant Experience (30%)
+   - Years of data analysis experience
+   - Public sector or regulated industry background
+   - Scale and complexity of past projects
+
+3. Education & Certifications (15%)
+   - Degree level and field of study
+   - Professional certifications
+
+4. Communication & Soft Skills (15%)
+   - Ability to explain technical concepts clearly
+   - Stakeholder management experience
+   - Team collaboration examples
+
+================================================================================
+ABOUT THIS DEMO
+================================================================================
+This is a synthetic job description for demonstration purposes only.
+All candidate data shown in this demo has been anonymized and does not
+represent real individuals. This tool is intended to illustrate AI-assisted
+candidate screening with human oversight — not to make actual hiring decisions.
